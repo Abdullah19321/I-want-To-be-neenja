@@ -1,0 +1,13 @@
+body {
+    font-family: Arial;
+    color:white;
+    background-color: rgb(39, 39, 39);
+}
+
+a{
+    color:aqua;
+}
+
+#Lyrics {
+    font-size: 2em;
+}
